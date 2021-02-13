@@ -1,0 +1,16 @@
+#title{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: '스웨거 TTF';
+    font-size: 50px;
+}
+
+#paragraph{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: '스웨거 TTF';
+    font-size: 25px;
+    line-height: 40px;
+}
